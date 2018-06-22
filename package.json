@@ -1,0 +1,18 @@
+{
+  "name": "train-query-crawl",
+  "version": "1.0.0",
+  "description": "Train query using cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "console.table": "^0.10.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "yargs": "^11.0.0"
+  }
+}
